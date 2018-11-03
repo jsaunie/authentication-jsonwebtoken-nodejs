@@ -1,7 +1,7 @@
 ## Authentication with JsonWebToken, Express & NodeJs
 
 ### Run the api
-1. Run `nodemon`
+1. Run `nodemon` in terminal
 2. Server listen on port 3000
 
 ### API doc
